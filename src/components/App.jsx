@@ -1,19 +1,12 @@
 import React, { Component } from 'react';
-import styled from 'styled-components';
 
+
+import { Container } from "./App.styled";
 import { FeedbackOptions } from './Feedback/Feedback';
 import { Statistics } from './Statistics/Statistics';
 import { Section } from './Section/Section';
 
 
-const Container = styled.div`
-  height: 800px;
-  display: block;
-  justify-content: center;
-  align-items: center;
-  font-size: 40px;
-  color: #010101;
-`;
 
 
 export class App extends Component {
