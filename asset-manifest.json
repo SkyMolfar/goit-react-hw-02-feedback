@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//skymolfars.github.io/goit-react-hw-02-feetback/static/css/main.e6c13ad2.css",
-    "main.js": "//skymolfars.github.io/goit-react-hw-02-feetback/static/js/main.92951c61.js",
-    "index.html": "//skymolfars.github.io/goit-react-hw-02-feetback/index.html",
-    "main.e6c13ad2.css.map": "//skymolfars.github.io/goit-react-hw-02-feetback/static/css/main.e6c13ad2.css.map",
-    "main.92951c61.js.map": "//skymolfars.github.io/goit-react-hw-02-feetback/static/js/main.92951c61.js.map"
+    "main.css": "/goit-react-hw-02-feetback/static/css/main.e6c13ad2.css",
+    "main.js": "/goit-react-hw-02-feetback/static/js/main.fdd4737f.js",
+    "index.html": "/goit-react-hw-02-feetback/index.html",
+    "main.e6c13ad2.css.map": "/goit-react-hw-02-feetback/static/css/main.e6c13ad2.css.map",
+    "main.fdd4737f.js.map": "/goit-react-hw-02-feetback/static/js/main.fdd4737f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.92951c61.js"
+    "static/js/main.fdd4737f.js"
   ]
 }
