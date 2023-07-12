@@ -5,6 +5,7 @@ import { FeedbackOptions } from './Feedback/Feedback';
 import { Statistics } from './Statistics/Statistics';
 import { Section } from './Section/Section';
 
+
 const Container = styled.div`
   height: 800px;
   display: block;
@@ -13,6 +14,7 @@ const Container = styled.div`
   font-size: 40px;
   color: #010101;
 `;
+
 
 export class App extends Component {
   state = {
