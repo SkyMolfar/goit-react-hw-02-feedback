@@ -19,3 +19,11 @@ export const Statlist = styled.ul`
   justify-content: center; 
   align-items: center;
 `;
+
+export const NoFeedback = styled.p`
+  text-align: center;
+  font-size: 18px;
+  color: gray;
+  width: 100%;
+  margin: 0 auto;
+`;
